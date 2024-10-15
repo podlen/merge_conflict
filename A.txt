@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 asdsa
 b
+=======
+a
+b2
+>>>>>>> cac21d933c7bfd18ca6fc560639cf8f158b83eb6
 c
 d
